@@ -1,0 +1,36 @@
+body{
+	margin:  0;
+}
+
+.contato{
+	color: black;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+
+h3{
+	color: #9b9d9e;
+	margin-left: 25px;
+}
+
+.inputs{
+	margin-left: 25px;
+	margin-top: 10px;
+}
+.form-control{
+	background-color: #9b9d9e !important;
+	color: white !important;
+
+}
+
+.form-contato{
+	width: 800px;
+	height: 600px;
+	border: 9px black solid;
+	color: black;
+	margin-left: auto;
+	margin-right: auto;
+	align-content: center;
+	background:rgba(112, 112, 112, 0.644);
+}
